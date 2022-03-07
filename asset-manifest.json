@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://kinfe123.github.io/csb-dhteuq/static/css/main.cca13aff.chunk.css",
+    "main.js": "https://kinfe123.github.io/csb-dhteuq/static/js/main.75e93d75.chunk.js",
+    "main.js.map": "https://kinfe123.github.io/csb-dhteuq/static/js/main.75e93d75.chunk.js.map",
+    "runtime-main.js": "https://kinfe123.github.io/csb-dhteuq/static/js/runtime-main.0ca561f9.js",
+    "runtime-main.js.map": "https://kinfe123.github.io/csb-dhteuq/static/js/runtime-main.0ca561f9.js.map",
+    "static/js/2.d4e4e489.chunk.js": "https://kinfe123.github.io/csb-dhteuq/static/js/2.d4e4e489.chunk.js",
+    "static/js/2.d4e4e489.chunk.js.map": "https://kinfe123.github.io/csb-dhteuq/static/js/2.d4e4e489.chunk.js.map",
+    "index.html": "https://kinfe123.github.io/csb-dhteuq/index.html",
+    "precache-manifest.25ab387ba9341e3e617cb03a5733e39f.js": "https://kinfe123.github.io/csb-dhteuq/precache-manifest.25ab387ba9341e3e617cb03a5733e39f.js",
+    "service-worker.js": "https://kinfe123.github.io/csb-dhteuq/service-worker.js",
+    "static/css/main.cca13aff.chunk.css.map": "https://kinfe123.github.io/csb-dhteuq/static/css/main.cca13aff.chunk.css.map",
+    "static/js/2.d4e4e489.chunk.js.LICENSE.txt": "https://kinfe123.github.io/csb-dhteuq/static/js/2.d4e4e489.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ca561f9.js",
+    "static/js/2.d4e4e489.chunk.js",
+    "static/css/main.cca13aff.chunk.css",
+    "static/js/main.75e93d75.chunk.js"
+  ]
+}
